@@ -1,3 +1,3 @@
 print("hello world")
 # new changes 
-print()
+print("hi")
